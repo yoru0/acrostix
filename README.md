@@ -1,2 +1,3 @@
-# Hidden Word
-Uncover a word by finding and mapping a pattern in a Unicode document.
+# Acrostix
+
+Extract hidden words from **Unicode** text by selecting characters at specified positions.
