@@ -1,2 +1,2 @@
-# Hidden Word
-Uncover a word by finding and mapping a pattern in a Unicode document.
+# LexiCode
+Uncover a word by finding and mapping a pattern in a Unicode document. This repository serves as a playground for exploring different programming languages and comparing implementations across various paradigms.
